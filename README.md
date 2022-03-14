@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Slitery
+- 👋 Hi, I’m @Mertcan POLAT
 - 👀 I’m interested in frontend development
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on frontend adn UI
